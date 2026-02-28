@@ -9,6 +9,7 @@ import { LanguageToggle } from "./LanguageToggle";
 const navLinks = [
   { key: "project", targetId: "solution" },
   { key: "tech", targetId: "tech" },
+  { key: "team", targetId: "team" },
   { key: "contact", targetId: "footer" },
 ] as const;
 

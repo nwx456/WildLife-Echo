@@ -2,6 +2,7 @@
   "nav": {
     "project": "Project",
     "tech": "Tech Docs",
+    "team": "Team",
     "contact": "Contact",
     "brand": "WildLife Echo"
   },
@@ -81,6 +82,10 @@
       "1× Solder + flux (for assembly)",
       "1× USB programming cable (ESP32: Micro-USB or USB-C)"
     ]
+  },
+  "team": {
+    "title": "Our Team Members",
+    "members": ["Emre Arslan", "Ayberk Tanrıverdi", "Çınar Koçer"]
   },
   "projectSample": {
     "caption": "Project Sample",

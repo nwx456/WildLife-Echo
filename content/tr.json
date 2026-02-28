@@ -2,6 +2,7 @@
   "nav": {
     "project": "Proje",
     "tech": "Teknik Dok.",
+    "team": "Takım",
     "contact": "İletişim",
     "brand": "WildLife Echo"
   },
@@ -81,6 +82,10 @@
       "1× Lehim + flux (montaj için)",
       "1× USB programlama kablosu (ESP32: Micro-USB veya USB-C)"
     ]
+  },
+  "team": {
+    "title": "Takım Üyelerimiz",
+    "members": ["Emre Arslan", "Ayberk Tanrıverdi", "Çınar Koçer"]
   },
   "projectSample": {
     "caption": "Proje Örneği",

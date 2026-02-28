@@ -5,6 +5,7 @@ import { DeviceSection } from "@/components/DeviceSection";
 import { TechSpecsSection } from "@/components/TechSpecsSection";
 import { InventorySection } from "@/components/InventorySection";
 import { HowItWorksSection } from "@/components/HowItWorksSection";
+import { TeamSection } from "@/components/TeamSection";
 import { Footer } from "@/components/Footer";
 
 export default function Home() {
@@ -17,6 +18,7 @@ export default function Home() {
       <TechSpecsSection />
       <InventorySection />
       <HowItWorksSection />
+      <TeamSection />
       <Footer />
     </main>
   );
