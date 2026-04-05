@@ -42,7 +42,7 @@ export function DeviceSection() {
             {!imgError ? (
               <img
                 src="/device-pod.png"
-                alt="WildLife Echo Acoustic Pod"
+                alt="FIRST STEP to Protect Acoustic Pod"
                 className="h-full w-full object-contain drop-shadow-2xl origin-center"
                 style={{ transform: "scale(2.5)" }}
                 onError={() => setImgError(true)}

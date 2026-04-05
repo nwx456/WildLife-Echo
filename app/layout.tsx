@@ -20,7 +20,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "WildLife Echo | Akustik Güvenlik Koridoru",
+  title: "FIRST STEP to Protect | Akustik Güvenlik Koridoru",
   description:
     "Orman yangınlarında hayvanların yanlış yöne kaçmasını engelleyen, IoT tabanlı Akustik Güvenlik Koridoru projesi.",
 };

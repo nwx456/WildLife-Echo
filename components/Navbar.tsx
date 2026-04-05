@@ -51,7 +51,7 @@ export function Navbar() {
           onClick={() => document.getElementById("hero")?.scrollIntoView({ behavior: "smooth" })}
           className="text-lg font-bold text-white transition-colors hover:text-[#FF4D00] bg-transparent border-none cursor-pointer p-0"
         >
-          {(t("nav.brand") as string) ?? "WildLife Echo"}
+          {(t("nav.brand") as string) ?? "FIRST STEP to Protect"}
         </button>
 
         <div className="hidden items-center gap-8 md:flex">

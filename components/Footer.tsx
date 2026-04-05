@@ -21,7 +21,7 @@ export function Footer() {
           viewport={{ once: true }}
         >
           <h3 className="font-heading text-2xl font-bold text-white">
-            WildLife Echo
+            FIRST STEP to Protect
           </h3>
           <p className="mt-4 max-w-2xl mx-auto text-sm leading-relaxed text-white/70">
             {t("footer.desc") as string}
@@ -37,7 +37,7 @@ export function Footer() {
             </Link>
           </div>
           <p className="mt-8 text-xs text-white/50">
-            © {new Date().getFullYear()} WildLife Echo. {t("footer.allRights") as string}
+            © {new Date().getFullYear()} FIRST STEP to Protect. {t("footer.allRights") as string}
           </p>
         </motion.div>
       </div>
